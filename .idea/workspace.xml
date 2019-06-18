@@ -33,31 +33,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BigDick.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
             <state relative-caret-position="338">
               <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1819#1820#0" expanded="true" />
                 <element signature="e#1855#1856#0" expanded="true" />
-=======
-            <state relative-caret-position="210">
-              <caret line="14" column="148" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="148" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Alex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
->>>>>>> master
+
               </folding>
             </state>
           </provider>
@@ -78,15 +61,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
+
         <option value="$PROJECT_DIR$/src/test/java/BigDick.java" />
-=======
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BookingCom.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Driver.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Alex.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Sexy.java" />
->>>>>>> master
+
       </list>
     </option>
   </component>
@@ -155,47 +132,10 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
+
   <component name="RunManager">
     <configuration name="BigDick" type="TestNG" temporary="true" nameIsGenerated="true">
-=======
-  <component name="RunManager" selected="TestNG.Sexy.test">
-    <configuration name="Alex" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="class_practice_TestNG" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Alex" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Alex.selectDate" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="class_practice_TestNG" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Alex" />
-      <option name="METHOD_NAME" value="selectDate" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sexy" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="class_practice_TestNG" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Sexy" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sexy.test" type="TestNG" temporary="true" nameIsGenerated="true">
->>>>>>> master
+
       <module name="class_practice_TestNG" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BigDick" />
@@ -208,7 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
+
         <item itemvalue="TestNG.BigDick" />
       </list>
     </recent_temporary>
@@ -229,49 +169,14 @@
   <component name="TestHistory">
     <history-entry file="BigDick - 2019.06.16 at 18h 05m 52s.xml">
       <configuration name="BigDick" configurationId="TestNG" />
-=======
-        <item itemvalue="TestNG.Sexy.test" />
-        <item itemvalue="TestNG.Alex.selectDate" />
-        <item itemvalue="TestNG.Sexy" />
-        <item itemvalue="TestNG.Alex" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Sexy_test - 2019.06.16 at 16h 38m 04s.xml">
-      <configuration name="Sexy.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Alex - 2019.06.16 at 17h 51m 17s.xml">
-      <configuration name="Alex" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Alex_selectDate - 2019.06.16 at 17h 51m 40s.xml">
-      <configuration name="Alex.selectDate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Alex - 2019.06.16 at 17h 52m 18s.xml">
-      <configuration name="Alex" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Sexy - 2019.06.16 at 17h 59m 36s.xml">
-      <configuration name="Sexy" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Sexy - 2019.06.16 at 18h 14m 38s.xml">
-      <configuration name="Sexy" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Sexy - 2019.06.16 at 18h 17m 07s.xml">
-      <configuration name="Sexy" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Alex_selectDate - 2019.06.16 at 18h 21m 30s.xml">
-      <configuration name="Alex.selectDate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Sexy_test - 2019.06.16 at 18h 21m 48s.xml">
-      <configuration name="Sexy.test" configurationId="TestNG" />
->>>>>>> master
+
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1278" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
+
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -284,28 +189,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956383" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34096387" />
->>>>>>> master
+
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
+
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette&#9;" />
-=======
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32891566" />
->>>>>>> master
+
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,7 +207,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
+
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -322,27 +215,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="52" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="52" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/TaseBase/Config.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
->>>>>>> master
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
+
     <entry file="file://$PROJECT_DIR$/src/test/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -354,19 +234,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-=======
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Alex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="35" />
->>>>>>> master
+
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1819#1820#0" expanded="true" />
@@ -375,34 +243,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sexy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="148" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="148" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
->>>>>>> master
+
   </component>
 </project>
