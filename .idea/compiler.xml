@@ -9,5 +9,8 @@
         <module name="class_practice_TestNG" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="class_practice_TestNG" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
