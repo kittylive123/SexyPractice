@@ -34,6 +34,7 @@ public class Elturan {
         List<WebElement> lstDays=Driver.getDriver().findElements(By.xpath("//div[@class='bui-calendar__wrapper'][1]//td[@class='bui-calendar__date']"));
         for (WebElement lstDay : lstDays) {
             System.out.print(lstDay.getText()+"//");
+            
         }
 
     }
