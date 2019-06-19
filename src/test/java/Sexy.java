@@ -1,5 +1,8 @@
 import org.openqa.selenium.By;
+
+
 import org.openqa.selenium.WebElement;
+
 import org.testng.annotations.Test;
 import utilities.Driver;
 
@@ -16,5 +19,6 @@ public class Sexy {
         Driver.getDriver().get("https://www.booking.com/");
 
     }
+
 }
 
