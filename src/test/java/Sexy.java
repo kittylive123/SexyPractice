@@ -19,6 +19,5 @@ public class Sexy {
         Driver.getDriver().get("https://www.booking.com/");
 
     }
-
 }
 
