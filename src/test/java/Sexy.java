@@ -1,5 +1,8 @@
 import org.openqa.selenium.By;
+
+
 import org.openqa.selenium.WebElement;
+
 import org.testng.annotations.Test;
 import utilities.Driver;
 
@@ -10,19 +13,11 @@ import java.util.SortedMap;
 
 public class Sexy {
 
-<<<<<<< HEAD
-@Test
-    public void test(){
-    Driver.getDriver().get("https://www.booking.com");
-
-}
-=======
 
     @Test
     public void test() {
         Driver.getDriver().get("https://www.booking.com/");
 
     }
->>>>>>> master
 }
 
