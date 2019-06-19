@@ -10,9 +10,11 @@ import java.util.SortedMap;
 
 public class Sexy {
 
+
     @Test
     public void test() {
         Driver.getDriver().get("https://www.booking.com/");
 
     }
 }
+
